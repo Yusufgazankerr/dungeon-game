@@ -1,0 +1,7 @@
+com.dungeonGame
+com.dungeonGame.database
+com.dungeonGame.encounter
+com.dungeonGame.logic
+com.dungeonGame.logic.mapAndLevelHandler
+com.dungeonGame.manualTests
+com.dungeonGame.roomContents

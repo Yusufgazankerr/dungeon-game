@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.dungeonGame"},{"l":"com.dungeonGame.database"},{"l":"com.dungeonGame.encounter"},{"l":"com.dungeonGame.logic"},{"l":"com.dungeonGame.logic.mapAndLevelHandler"},{"l":"com.dungeonGame.manualTests"},{"l":"com.dungeonGame.roomContents"}];updateSearchResults();
