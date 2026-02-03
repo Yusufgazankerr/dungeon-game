@@ -32,3 +32,6 @@ From the command line:
 1. Build and test:
    ```bash
    mvn test
+
+   ## Notes
+This project was developed as part of an Advanced Object-Oriented Programming module.
