@@ -1,4 +1,4 @@
-# Advanced OOP 6 — Dungeon Game
+# Dungeon Game
 
 A console-based dungeon crawler written in Java. The player explores a three-level dungeon, manages power points and inventory, encounters randomized events, and can save/load progress using a local SQLite database.
 
